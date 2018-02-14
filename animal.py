@@ -34,3 +34,15 @@ class RoboCat (Robot, Cat):
 
 class RoboDog (Robot, Dog):
   pass
+
+def fight ():
+  pass
+
+NAMES = []
+
+def run ():
+  total = 2 + 2
+  print("Hello")
+  
+if __name__ == "__main__":
+  run()
